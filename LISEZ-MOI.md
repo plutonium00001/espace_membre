@@ -1,5 +1,15 @@
-# Gestion d'un espace membre
+# La base de donnée
 
-Ce projet consiste à gérer un espace membre avec une authentification
+Voici l'architecture de la base de donnée créée et utilisée lors du projet
 
-Il s'agit d'un projet réalisé en seconde année d'un BTS SNEC ayant pour but de nous initier ou non au code HTLM, PHP, MySQL et JavaScript
+Elle possède pour le moment 4 tables :
+
+-> users qui gère les membres du sites
+
+-> seeds qu gère toutes les graines et leur quantité
+
+-> images qui gère les images des types de graines
+
+-> exchange qui gère les mouvements de graines souhaité par les membres
+
+Un fichier Word avec de plus amples explication sera uploadé plus tard
